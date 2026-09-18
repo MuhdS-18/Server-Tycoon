@@ -1,0 +1,6 @@
+{
+  "name": "NetForge: Server & Silicon Tycoon",
+  "description": "Build and expand a global server network, operate high-tech semiconductor fabrication plants, research next-gen computing architectures, and dominate cloud infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
